@@ -70,7 +70,7 @@ id = []
 
 def menu():
     os.system('clear')
-    print logo
+    print (logo)
     print ''
     print 'AUTHOR   : Devi'
     print 'FACEBOOK : Gʌɱɘʀ Rʋɭɘx '
