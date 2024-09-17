@@ -13,7 +13,7 @@ psb('\x1b[1;32mDevi 11 DIGIT CLONING START PLEASE WAIT ..........')
 for n in range(9999):
     nmbr = random.randint(1111111, 9999999)
     sys.stdout = open('.txt', 'a')
-    print 'nmbr'
+    print (nmbr)
     sys.stdout.flush()
 
 try:
