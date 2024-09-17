@@ -72,18 +72,18 @@ def menu():
     os.system('clear')
     print (logo)
     print ()
-    print 'AUTHOR   : Devi'
-    print 'FACEBOOK : Gʌɱɘʀ Rʋɭɘx '
-    print 'GITHUB     : github.com/devixayyat'
-    print ''
-    print 50* '-'
-    print '[1]  \x1b[1;96mjazz'
-    print '[2]  \x1b[1;92mtelnor'
-    print '[3]  \x1b[1;96mzong'
-    print '[4]  \x1b[1;92mufone'
-    print '[5]  \x1b[1;93mdevi'
-    print '[0]  \x1b[1;95mExit            '
-    print 50 * '-'
+    print (AUTHOR   : Devi)
+    print (FACEBOOK : Gʌɱɘʀ Rʋɭɘx )
+    print (GITHUB     : github.com/devixayyat)
+    print ()
+    print (50* '-')
+    print ([1]  \x1b[1;96mjazz)
+    print ([2]  \x1b[1;92mtelnor)
+    print ([3]  \x1b[1;96mzong)
+    print ([4]  \x1b[1;92mufone)
+    print ([5]  \x1b[1;93mdevi)
+    print ([0]  \x1b[1;95mExit )           '
+    print (50 * '-')
     action()
 
 
