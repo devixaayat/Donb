@@ -82,7 +82,7 @@ def menu():
     print ([3]  zong)
     print ([4]  ufone)
     print ([5]  devi)
-    print ([0]  Exit )           '
+    print ([0]  Exit )           
     print (50 * '-')
     action()
 
