@@ -71,7 +71,7 @@ id = []
 def menu():
     os.system('clear')
     print (logo)
-    print ''
+    print ()
     print 'AUTHOR   : Devi'
     print 'FACEBOOK : Gʌɱɘʀ Rʋɭɘx '
     print 'GITHUB     : github.com/devixayyat'
