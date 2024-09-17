@@ -73,7 +73,7 @@ def menu():
     print (logo)
     print ()
     print (AUTHOR  =  Devi)
-    print (FACEBOOK=  Gʌɱɘʀ Rʋɭɘx )
+    print (FACEBOOK=  Devi)
     print (GITHUB  =    github.com/devixayyat)
     print ()
     print (50)
